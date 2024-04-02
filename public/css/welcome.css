@@ -28,7 +28,7 @@
 }
 
 .content h1:hover{
-    -webkit-text-stroke: 2px white;
+    -webkit-text-stroke: 2px #4F6F52;
     color: transparent;
 }
 
@@ -45,6 +45,12 @@
     margin-top: 20px;
     margin-bottom: 400px;
 }
+
+.content :hover{
+    color: #86A789;
+    border-color: #86A789;
+}
+
 
 .back-video{
     position: fixed;

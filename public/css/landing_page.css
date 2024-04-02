@@ -3,12 +3,19 @@
     padding: 0;
     box-sizing: border-box;
     font-family:  'Roboto', sans-serif;
-    background-color: rgb(84, 84, 84);
+    background-color: rgb(44, 44, 44);
 }
 
 .content{
     text-align: center;
 }
+
+.landin-btn{
+    display: flex;
+    margin-left: 20rem;
+    padding: 50px;
+}
+
 
 .content h1{
     font-size: 100px;

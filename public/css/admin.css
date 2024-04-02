@@ -12,11 +12,10 @@ header {
 
 header h1 {
     margin: 0;
-    text-align: center;
-    padding: 10px 0;
     color: rgb(0, 0, 0);
     align-items: center;
     letter-spacing: 0cap;
+    padding-right: 32rem;
 }
 
 nav {
@@ -72,12 +71,50 @@ button {
 }
 
 button {
-    background-color: #035832;
+    background-color: #739072;
     color: #fff;
     border: none;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #7bff00;
+    background-color: #4F6F52;
 }
+
+
+
+label {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 5px;
+    display: block;
+  }
+  
+
+  select {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin-bottom: 20px;
+    color: #555;
+    padding: 8px;
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+  }
+  
+
+  option {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #555;
+  }
+  
+
+  select:focus {
+    outline: none;
+    border-color: #D2E3C8;
+    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.25);
+  }
+  

@@ -40,14 +40,14 @@ button {
 }
 
 button {
-    background-color: #007bff;
+    background-color: #D2E3C8;
     color: #fff;
     border: none;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #4F6F52;
 }
 
 .properties {
@@ -132,12 +132,12 @@ textarea {
 }
 
 button {
-    background-color: #007bff;
+    background-color: #739072;
     color: #fff;
     border: none;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #4F6F52;
 }

@@ -10,7 +10,7 @@
 <body>
 	<div class="hero">
 		<video autoplay loop muted plays-inline class="back-video">
-			<source src="/img/NSBM.mp4" type="video/mp4">
+			<source src="/img/NSBM1.mp4" type="video/mp4">
 		</video>
 
 		<div class="content">

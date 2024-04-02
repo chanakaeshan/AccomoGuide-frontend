@@ -14,8 +14,12 @@
   .logo {
     width: 50px;
     margin-right: auto;
-    
   }
+
+.logo :hover{
+      transform: scale(1.1);
+  }
+    
   
   .nav__links {
     list-style: none;
@@ -26,7 +30,7 @@
   .cta,
   .overlay__content a {
     font-family: "Montserrat", sans-serif;
-    font-weight: 500;
+    font-weight: 800;
     color: #000000;
     text-decoration: none;
   }
@@ -40,13 +44,13 @@
   }
   
   .nav__links li a:hover {
-    color: #00d44a;
+    color: #4F6F52;
   }
   
   .cta {
     margin-left: 20px;
     padding: 9px 25px;
-    background-color: rgb(0, 177, 44);
+    background-color: #86A789;
     border: none;
     border-radius: 50px;
     cursor: pointer;
@@ -54,7 +58,7 @@
   }
   
   .cta:hover {
-    background-color: rgba(4, 188, 99, 0.8);
+    background-color:#4F6F52;
   }
   
   /* Mobile Nav */
@@ -96,14 +100,14 @@
   
   .overlay a:hover,
   .overlay a:focus {
-    color: #06cc4e;
+    color: #4F6F52;
   }
   .overlay .close {
     position: absolute;
     top: 20px;
     right: 45px;
     font-size: 60px;
-    color: #00e266;
+    color: #4F6F52;
     cursor: pointer;
   }
   
