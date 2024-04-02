@@ -114,7 +114,7 @@ label {
 
   select:focus {
     outline: none;
-    border-color: #D2E3C8;
-    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.25);
+    border-color: #86A789;
+    box-shadow: 0 0 0 3px #739072;
   }
   
